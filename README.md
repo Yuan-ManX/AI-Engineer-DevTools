@@ -6,6 +6,7 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 ## Table of Contents
 
 * [Database](#database)
+* [Vector Database](#vectordatabase)
 * [Data Ingest](#dataingest)
 * [Data Warehouse](#datawarehouse)
 * [Model Training](#modeltraining)
