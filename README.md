@@ -9,6 +9,7 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 * [Data Warehouse](#datawarehouse)
 * [Model Training](#modeltraining)
 * [Model Tuning](#modeltuning)
+* [Model Evaluation](#modelevaluation)
 
 
 ## Project List
