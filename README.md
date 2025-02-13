@@ -10,6 +10,7 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 * [Model Training](#modeltraining)
 * [Model Tuning](#modeltuning)
 * [Model Evaluation](#modelevaluation)
+* [Model Deployment](#modeldeployment)
 
 
 ## Project List
