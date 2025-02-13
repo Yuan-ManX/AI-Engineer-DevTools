@@ -7,6 +7,7 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 
 * [Database](#database)
 * [Data Warehouse](#datawarehouse)
+* [Model Training](#modeltraining)
 
 
 ## Project List
@@ -28,3 +29,11 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
+
+###  <span id="modeltraining">Model Training</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Databricks](https://www.databricks.com/)              | Databricks, Inc. is a global data, analytics, and artificial intelligence (AI) company, founded in 2013 by the original creators of Apache Spark. The Databricks Platform is the world's first data intelligence platform powered by generative AI. Infuse AI into every facet of your business.            | [GitHub](https://github.com/databricks)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
