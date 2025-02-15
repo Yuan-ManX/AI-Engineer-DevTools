@@ -29,6 +29,15 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="vectordatabase">Vector Database</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Chroma](https://www.trychroma.com/)              | Chroma - the AI-native open-source embedding database. Embeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.            | [GitHub](https://github.com/chroma-core/chroma)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="datawarehouse">Data Warehouse</span>
 
 | Name                   | Description                                                 |   Code   |
