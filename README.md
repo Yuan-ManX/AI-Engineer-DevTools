@@ -34,6 +34,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
 | [Chroma](https://www.trychroma.com/)              | Chroma - the AI-native open-source embedding database. Embeddings, vector search, document storage, full-text search, metadata filtering, and multi-modal. All in one place. Retrieval that just works. As it should be.            | [GitHub](https://github.com/chroma-core/chroma)              |
+| [Milvus](https://milvus.io/)              | A cloud-native vector database, storage for next generation AI applications. Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search. Milvus is an open-source vector database built for GenAI applications. Install with pip, perform high-speed searches, and scale to tens of billions of vectors with minimal performance loss.     | [GitHub](https://github.com/milvus-io/milvus)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
