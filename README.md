@@ -1,6 +1,6 @@
 # AI Engineer DevTools
 
-Here we will keep track of the latest AI Engineer Development Tools! 🔥
+Here we will keep track of the latest AI Engineer Development Tools, including Database, Vector Database, Data Ingest, Data Processing, Data Warehouse, Model Training, Model Tuning, Model Evaluation, Model Deployment, Model Monitor and AI Agent Framework! 🔥
 
 
 ## Table of Contents
