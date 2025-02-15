@@ -8,6 +8,7 @@ Here we will keep track of the latest AI Engineer Development Tools! 🔥
 * [Database](#database)
 * [Vector Database](#vectordatabase)
 * [Data Ingest](#dataingest)
+* [Data Processing](#dataprocessing)
 * [Data Warehouse](#datawarehouse)
 * [Model Training](#modeltraining)
 * [Model Tuning](#modeltuning)
