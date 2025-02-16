@@ -64,6 +64,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [CrewAI](https://www.crewai.com/)              | The Leading Multi-Agent Platform. Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.            | [GitHub](https://github.com/crewAIInc/crewAI)              |
 | [LangChain](https://www.langchain.com/)              | LangChain is a composable framework to build with LLMs. LangGraph is the orchestration framework for controllable agentic workflows. 🦜🔗 Build context-aware reasoning applications. Get your LLM application from prototype to production.            | [GitHub](https://github.com/langchain-ai/langchain)              |
 | [LlamaIndex](https://www.llamaindex.ai/)              | LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models. Build production agents that can find information, synthesize insights, generate reports, and take actions over the most complex enterprise data.            | [GitHub](https://github.com/run-llama/llama_index)              |
 
