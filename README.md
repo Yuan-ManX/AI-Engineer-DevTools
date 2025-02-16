@@ -64,6 +64,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [LangChain](https://www.langchain.com/)              | LangChain is a composable framework to build with LLMs. LangGraph is the orchestration framework for controllable agentic workflows. 🦜🔗 Build context-aware reasoning applications. Get your LLM application from prototype to production.            | [GitHub](https://github.com/langchain-ai/langchain)              |
 | [LlamaIndex](https://www.llamaindex.ai/)              | LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models. Build production agents that can find information, synthesize insights, generate reports, and take actions over the most complex enterprise data.            | [GitHub](https://github.com/run-llama/llama_index)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
