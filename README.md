@@ -11,6 +11,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 * [Data Processing](#dataprocessing)
 * [Data Warehouse](#datawarehouse)
 * [Model Training](#modeltraining)
+* [Model Zoo](#modelzoo)
 * [Model Tuning](#modeltuning)
 * [Model Evaluation](#modelevaluation)
 * [Model Deployment](#modeldeployment)
