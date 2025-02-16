@@ -44,6 +44,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="dataingest">Data Ingest</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Airbyte](https://airbyte.com/)              | Airbyte: Open-Source Data Movement for LLMs. Airbyte is an open-source data integration engine that helps you consolidate your data in your data warehouses, lakes and databases. 20,000+ data and AI professionals manage diverse data across multi-cloud environments with our trusted data movement platform. Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes.            | [GitHub](https://github.com/airbytehq/airbyte)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="datawarehouse">Data Warehouse</span>
 
 | Name                   | Description                                                 |   Code   |
