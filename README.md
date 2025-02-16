@@ -25,6 +25,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
 | [MySQL](https://www.mysql.com/)              | MySQL is the world's most popular open source database.            | [GitHub](https://github.com/mysql)              |
+| [PostgreSQL](https://www.postgresql.org/)              | PostgreSQL: The World's Most Advanced Open Source Relational Database. PostgreSQL is an advanced object-relational database management system that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types and functions. This distribution also contains C language bindings.            | [GitHub](https://github.com/postgres/postgres)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
