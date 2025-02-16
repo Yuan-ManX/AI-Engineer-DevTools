@@ -58,3 +58,13 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 | [PyTorch](https://pytorch.org/)              | PyTorch is a machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella. PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration; Deep neural networks built on a tape-based autograd system. Tensors and Dynamic neural networks in Python with strong GPU acceleration.            | [GitHub](https://github.com/pytorch)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
+###  <span id="agent">AI Agent Framework</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [LlamaIndex](https://www.llamaindex.ai/)              | LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models. Build production agents that can find information, synthesize insights, generate reports, and take actions over the most complex enterprise data.            | [GitHub](https://github.com/run-llama/llama_index)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
