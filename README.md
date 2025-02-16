@@ -59,6 +59,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
 | [Airflow](https://airflow.apache.org/)              | Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows. Anyone with Python knowledge can deploy a workflow. Apache Airflow does not limit the scope of your pipelines; you can use it to build ML models, transfer data.            | [GitHub](https://github.com/apache/airflow)              |
 | [Dagster](https://dagster.io/)              | Dagster is a cloud-native data pipeline orchestrator for the whole development lifecycle, with integrated lineage and observability, a declarative programming model, and best-in-class testability. Ship data pipelines quickly and confidently with the modern data orchestrator built for data engineers building data platforms.            | [GitHub](https://github.com/dagster-io/dagster)              |
+| [dbt](https://www.getdbt.com/)              | dbt Labs: Transform Data in Your Warehouse. dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.            | [GitHub](https://github.com/dbt-labs/dbt-core)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
