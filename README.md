@@ -49,6 +49,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
 | [Databricks](https://www.databricks.com/)              | Databricks, Inc. is a global data, analytics, and artificial intelligence (AI) company, founded in 2013 by the original creators of Apache Spark. The Databricks Platform is the world's first data intelligence platform powered by generative AI. Infuse AI into every facet of your business.            | [GitHub](https://github.com/databricks)              |
+| [Snowflake](https://snowflake.com)              | The Snowflake AI Data Cloud - Mobilize Data, Apps, and AI. Snowflake enables organizations to learn, build, and connect with their data-driven peers. Collaborate, build data apps & power diverse workloads in the AI.            | [GitHub](https://github.com/snowflakedb)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
