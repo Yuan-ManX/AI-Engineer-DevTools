@@ -111,6 +111,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [DeepEval](https://docs.confident-ai.com/)              | DeepEval: The LLM Evaluation Framework. DeepEval is a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems. It is similar to Pytest but specialized for unit testing LLM outputs. DeepEval incorporates the latest research to evaluate LLM outputs based on metrics such as G-Eval, hallucination, answer relevancy, RAGAS, etc., which uses LLMs and various other NLP models that runs locally on your machine for evaluation.            | [GitHub](https://github.com/confident-ai/deepeval)              |
 | [Giskard](https://www.giskard.ai/)              | Giskard: Open-Source Evaluation & Testing for AI & LLM systems. Giskard is an open-source Python library that automatically detects performance, bias & security issues in AI applications. The library covers LLM-based applications such as RAG agents, all the way to traditional ML models for tabular data.            | [GitHub](https://github.com/Giskard-AI/giskard)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
