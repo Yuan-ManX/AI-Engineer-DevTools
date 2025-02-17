@@ -133,6 +133,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Arize](https://arize.com/)              | Arize is the single platform built to help you accelerate development of AI apps and agents – then perfect them in production. A machine learning observability platform that provides real-time monitoring and explainability to help you understand how your models are performing.            | [GitHub](https://github.com/Arize-ai)              |
 | [Langfuse](https://langfuse.com/)              | Langfuse is an open source LLM engineering platform. Traces, evals, prompt management and metrics to debug and improve your LLM application. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications. Langfuse can be self-hosted in minutes and is battle-tested.            | [GitHub](https://github.com/langfuse/langfuse)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
