@@ -117,6 +117,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="modelmonitor">Model Monitor</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Langfuse](https://langfuse.com/)              | Langfuse is an open source LLM engineering platform. Traces, evals, prompt management and metrics to debug and improve your LLM application. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications. Langfuse can be self-hosted in minutes and is battle-tested.            | [GitHub](https://github.com/langfuse/langfuse)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="agent">AI Agent Framework</span>
 
 | Name                   | Description                                                 |   Code   |
