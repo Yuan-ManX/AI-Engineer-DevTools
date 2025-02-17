@@ -91,6 +91,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [MLflow](https://mlflow.org/)              | MLflow: A Machine Learning Lifecycle Platform. Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform. MLflow is an open-source platform, purpose-built to assist machine learning practitioners and teams in handling the complexities of the machine learning process. MLflow focuses on the full lifecycle for machine learning projects, ensuring that each phase is manageable, traceable, and reproducible.            | [GitHub](https://github.com/mlflow/mlflow)              |
 | [Weights & Biases](https://wandb.ai/site/)              | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production machine learning models.            | [GitHub](https://github.com/wandb/wandb)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
