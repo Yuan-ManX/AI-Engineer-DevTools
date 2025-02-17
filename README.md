@@ -97,6 +97,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="modeltuning">Model Tuning</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Optuna](https://optuna.org/)              | Optuna: A hyperparameter optimization framework. Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters.            | [GitHub](https://github.com/optuna/optuna)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="agent">AI Agent Framework</span>
 
 | Name                   | Description                                                 |   Code   |
