@@ -117,6 +117,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="modeldeployment">Model Deployment</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [vLLM](https://docs.vllm.ai/en/latest/)              | vLLM is a fast and easy-to-use library for LLM inference and serving. A high-throughput and memory-efficient inference and serving engine for LLMs.            | [GitHub](https://github.com/vllm-project/vllm)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="modelmonitor">Model Monitor</span>
 
 | Name                   | Description                                                 |   Code   |
