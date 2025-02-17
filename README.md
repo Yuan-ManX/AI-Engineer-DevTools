@@ -107,6 +107,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="modelevaluation">Model Evaluation</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Giskard](https://www.giskard.ai/)              | Giskard: Open-Source Evaluation & Testing for AI & LLM systems. Giskard is an open-source Python library that automatically detects performance, bias & security issues in AI applications. The library covers LLM-based applications such as RAG agents, all the way to traditional ML models for tabular data.            | [GitHub](https://github.com/Giskard-AI/giskard)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="agent">AI Agent Framework</span>
 
 | Name                   | Description                                                 |   Code   |
