@@ -87,6 +87,15 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
 
+###  <span id="modelzoo">Model Zoo</span>
+
+| Name                   | Description                                                 |   Code   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [Weights & Biases](https://wandb.ai/site/)              | The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production. Use W&B to build better models faster. Track and visualize all the pieces of your machine learning pipeline, from datasets to production machine learning models.            | [GitHub](https://github.com/wandb/wandb)              |
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
+
+
 ###  <span id="agent">AI Agent Framework</span>
 
 | Name                   | Description                                                 |   Code   |
