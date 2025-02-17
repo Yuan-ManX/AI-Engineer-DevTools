@@ -121,6 +121,7 @@ Here we will keep track of the latest AI Engineer Development Tools, including D
 
 | Name                   | Description                                                 |   Code   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: |
+| [KTransformers](https://kvcache-ai.github.io/ktransformers/)              | KTransformers: A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations. KTransformers, pronounced as Quick Transformers, is designed to enhance your 🤗 Transformers experience with advanced kernel optimizations and placement/parallelism strategies. KTransformers is a flexible, Python-centric framework designed with extensibility at its core. By implementing and injecting an optimized module with a single line of code, users gain access to a Transformers-compatible interface, RESTful APIs compliant with OpenAI and Ollama, and even a simplified ChatGPT-like web UI.            | [GitHub](https://github.com/kvcache-ai/ktransformers)              |
 | [vLLM](https://docs.vllm.ai/en/latest/)              | vLLM is a fast and easy-to-use library for LLM inference and serving. A high-throughput and memory-efficient inference and serving engine for LLMs.            | [GitHub](https://github.com/vllm-project/vllm)              |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
